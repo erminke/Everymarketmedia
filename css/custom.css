@@ -3,7 +3,7 @@ Theme Name: Worthy - Free Powerful Theme by HtmlCoder
 Author:HtmlCoder
 Author URI:http://www.htmlcoder.me
 Version:1.0.0
-Created:November 2014
+Created:March 2015
 License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
 File Description: Place here your custom CSS styles
 */
@@ -17,7 +17,8 @@ File Description: Place here your custom CSS styles
 }
 .bg-image-2 {
   background: url("../images/background2.jpg") 50% 0px no-repeat;
+  padding: 100px 100px;
 }
 .translucent-bg.blue:after {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(85, 172, 238, 1);
 }
