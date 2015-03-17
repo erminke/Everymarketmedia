@@ -7,10 +7,9 @@ portfolio and personal webpages.
 
 If you like the template and find it useful, please help us spread the word :-)
 
-- Theme version: v1.0
-- Release Date: 13 Nov 2014
-- Author: HtmlCoder (http://htmlcoder.me)
-- Contact: http://htmlcoder.me/contact
+- Theme version: v1.1
+- Release Date: 17 March 2015
+- Author: Aquila-ars (http://aquila-ars.com/)
 
 Every Market Media
 ------------------------------------------------------
