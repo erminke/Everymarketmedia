@@ -7,3 +7,17 @@ Created:November 2014
 License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
 File Description: Place here your custom CSS styles
 */
+
+.banner:after {
+	background-color: rgba(0, 0, 0, 0.68);
+}
+.site-name {
+  font-size: 30px;
+  padding-top: 5px;
+}
+.bg-image-2 {
+  background: url("../images/background2.jpg") 50% 0px no-repeat;
+}
+.translucent-bg.blue:after {
+  background-color: rgba(0, 0, 0, 0.7);
+}
